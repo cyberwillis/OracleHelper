@@ -5,7 +5,6 @@
 // classes.
 // Originally developed by microsoft converted to use with Oracle Database
 //
-// For more information see the Data Access Application Block Implementation Overview. 
 // 
 //==============================================================================
 
